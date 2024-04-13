@@ -1,0 +1,15 @@
+{  
+  "name": "digi-diver",  
+  "version": "2.3.9",  
+  "description": "AI语音适配",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/digi-diver"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/digi-diver"  
+}
